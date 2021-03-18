@@ -23,3 +23,7 @@ et en suite j'ai egalement pris mon temps dans la creation de logiciel de bureau
 
 durent mon parcours de dev j'ai rencontrer des gens aussi douer que passioner et j'en est fait des amis 
 merci liam le terrible et a fernande 
+
+<h2> me contacter ? </h2>
+
+<h4>Mail </h4> :: <a mailto="amoussougedeon13@gamil.com">amoussougedeon13@gamil.com</a>
