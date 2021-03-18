@@ -26,4 +26,5 @@ merci liam le terrible et a fernande
 
 <h2> me contacter ? </h2>
 
-<h4>Mail </h4> :: <a mailto="amoussougedeon13@gamil.com">amoussougedeon13@gamil.com</a>
+<h4>Mail </h4> :: <a href="amoussougedeon13@gamil.com">amoussougedeon13@gamil.com</a>
+<h4> numero </h4> :: <strong>+228</strong>96870360
